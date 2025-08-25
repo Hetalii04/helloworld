@@ -10,7 +10,7 @@ Hi! I'm Hetali, a BCA graduate passionate about software development.
 - Build innovative software solutions
 
 ## Skills
-- Programming: Java, Python, C++
+- Programming: Java, Python, C++,C
 - Web: HTML, CSS, JavaScript
 - Database: MySQL
 
