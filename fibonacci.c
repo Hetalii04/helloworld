@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int n, a = 0, b = 1, next;
+    int n, a = 0, b = 1, c;
     
     printf("Enter number of terms: ");
     scanf("%d", &n);
@@ -9,10 +9,10 @@ int main() {
     printf("Fibonacci sequence: %d %d ", a, b);
     
     for (int i = 2; i < n; i++) {
-        next = a + b;
+        c = a + b;
         printf("%d ", next);
         a = b;
-        b = next;
+        b = c;
     }
     
     printf("\n");
